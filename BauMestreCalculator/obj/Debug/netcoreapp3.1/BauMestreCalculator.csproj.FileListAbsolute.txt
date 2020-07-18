@@ -1,0 +1,13 @@
+B:\Repos\BauMestreCalculator\BauMestreCalculator\bin\Debug\netcoreapp3.1\BauMestreCalculator.exe
+B:\Repos\BauMestreCalculator\BauMestreCalculator\bin\Debug\netcoreapp3.1\BauMestreCalculator.deps.json
+B:\Repos\BauMestreCalculator\BauMestreCalculator\bin\Debug\netcoreapp3.1\BauMestreCalculator.runtimeconfig.json
+B:\Repos\BauMestreCalculator\BauMestreCalculator\bin\Debug\netcoreapp3.1\BauMestreCalculator.runtimeconfig.dev.json
+B:\Repos\BauMestreCalculator\BauMestreCalculator\bin\Debug\netcoreapp3.1\BauMestreCalculator.dll
+B:\Repos\BauMestreCalculator\BauMestreCalculator\bin\Debug\netcoreapp3.1\BauMestreCalculator.pdb
+B:\Repos\BauMestreCalculator\BauMestreCalculator\obj\Debug\netcoreapp3.1\BauMestreCalculator.csprojAssemblyReference.cache
+B:\Repos\BauMestreCalculator\BauMestreCalculator\obj\Debug\netcoreapp3.1\BauMestreCalculator.AssemblyInfoInputs.cache
+B:\Repos\BauMestreCalculator\BauMestreCalculator\obj\Debug\netcoreapp3.1\BauMestreCalculator.AssemblyInfo.cs
+B:\Repos\BauMestreCalculator\BauMestreCalculator\obj\Debug\netcoreapp3.1\BauMestreCalculator.csproj.CoreCompileInputs.cache
+B:\Repos\BauMestreCalculator\BauMestreCalculator\obj\Debug\netcoreapp3.1\BauMestreCalculator.dll
+B:\Repos\BauMestreCalculator\BauMestreCalculator\obj\Debug\netcoreapp3.1\BauMestreCalculator.pdb
+B:\Repos\BauMestreCalculator\BauMestreCalculator\obj\Debug\netcoreapp3.1\BauMestreCalculator.genruntimeconfig.cache
